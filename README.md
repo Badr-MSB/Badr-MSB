@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Badr-MSB
-- 👀 I’m interested in Embedded Sysyems
+- 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning OsDev 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me badrmesbahi29@gmail.com
 
 <!---
