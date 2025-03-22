@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Badr-MSB
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning about OS & CPU Design 
+- 🌱 I’m currently learning about System On-Chip Design 
 - 📫 How to reach me badrmesbahi29@gmail.com
 
 <!---
